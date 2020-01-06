@@ -92,6 +92,15 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Files\bitcalc-01-console-execution.png" />
+    <Content Include="Files\bitcalc-02-input-infix-1.png" />
+    <Content Include="Files\bitcalc-03-output-asm-1.png" />
+    <Content Include="Files\bitcalc-04-output-asm-2.png" />
+    <Content Include="Files\bitcalc-05-emu8086-begin.png" />
+    <Content Include="Files\bitcalc-06-emu8086-end.png" />
+    <Content Include="Files\bitcalc-07-input-infix-2.png" />
+    <Content Include="Files\bitcalc-08-output-asm-1.png" />
+    <Content Include="Files\bitcalc-09-output-asm-2.png" />
     <Content Include="Files\test-inputs.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
