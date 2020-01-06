@@ -67,6 +67,7 @@
     <Compile Include="ReversePolishNotation.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Files\swe514fall2019project.pdf" />
     <None Include="Files\type1a.bit" />
     <None Include="Files\type1b.bit" />
     <None Include="Files\type1c.bit" />
