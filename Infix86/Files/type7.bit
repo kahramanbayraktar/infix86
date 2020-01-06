@@ -1,0 +1,7 @@
+x = 3
+y = 0ff
+z = ffh
+x = x & y
+x
+y
+z
